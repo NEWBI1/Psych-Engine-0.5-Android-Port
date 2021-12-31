@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brave.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="brave down0000" x="0" y="0" width="440" height="611" pivotX="202.5" pivotY="295.3" frameX="-1" frameY="-8" frameWidth="443" frameHeight="619"/>
+	<SubTexture name="brave down0001" x="0" y="0" width="440" height="611" frameX="-1" frameY="-8" frameWidth="443" frameHeight="619"/>
+	<SubTexture name="brave down0002" x="442" y="0" width="436" height="612" frameX="-1" frameY="-7" frameWidth="443" frameHeight="619"/>
+	<SubTexture name="brave down0003" x="442" y="0" width="436" height="612" frameX="-1" frameY="-7" frameWidth="443" frameHeight="619"/>
+	<SubTexture name="brave down0004" x="880" y="0" width="438" height="614" frameX="-1" frameY="-5" frameWidth="443" frameHeight="619"/>
+	<SubTexture name="brave down0005" x="880" y="0" width="438" height="614" frameX="-1" frameY="-5" frameWidth="443" frameHeight="619"/>
+	<SubTexture name="brave down0006" x="1320" y="0" width="442" height="617" frameX="-1" frameY="-2" frameWidth="443" frameHeight="619"/>
+	<SubTexture name="brave down0007" x="1320" y="0" width="442" height="617" frameX="-1" frameY="-2" frameWidth="443" frameHeight="619"/>
+	<SubTexture name="brave down0008" x="1764" y="0" width="443" height="619"/>
+	<SubTexture name="brave down0009" x="1764" y="0" width="443" height="619"/>
+	<SubTexture name="brave down0010" x="1764" y="0" width="443" height="619"/>
+	<SubTexture name="brave down0011" x="1764" y="0" width="443" height="619"/>
+	<SubTexture name="brave down0012" x="1764" y="0" width="443" height="619"/>
+	<SubTexture name="brave down0013" x="1764" y="0" width="443" height="619"/>
+	<SubTexture name="brave down0014" x="1764" y="0" width="443" height="619"/>
+	<SubTexture name="brave idle0000" x="2209" y="0" width="571" height="460" pivotX="294.1" pivotY="232.85" frameX="0" frameY="-8" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0001" x="2209" y="0" width="571" height="460" frameX="0" frameY="-8" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0002" x="2782" y="0" width="575" height="461" frameX="-3" frameY="-7" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0003" x="2782" y="0" width="575" height="461" frameX="-3" frameY="-7" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0004" x="3359" y="0" width="580" height="461" frameX="-5" frameY="-7" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0005" x="3359" y="0" width="580" height="461" frameX="-5" frameY="-7" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0006" x="0" y="621" width="572" height="468" frameX="-10" frameY="0" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0007" x="0" y="621" width="572" height="468" frameX="-10" frameY="0" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0008" x="574" y="621" width="568" height="468" frameX="-12" frameY="0" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0009" x="574" y="621" width="568" height="468" frameX="-12" frameY="0" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0010" x="1144" y="621" width="568" height="468" frameX="-12" frameY="0" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0011" x="1144" y="621" width="568" height="468" frameX="-12" frameY="0" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0012" x="1144" y="621" width="568" height="468" frameX="-12" frameY="0" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave idle0013" x="1144" y="621" width="568" height="468" frameX="-12" frameY="0" frameWidth="585" frameHeight="468"/>
+	<SubTexture name="brave left0000" x="1714" y="621" width="524" height="592" pivotX="237.15" pivotY="289.5" frameX="0" frameY="-3" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0001" x="1714" y="621" width="524" height="592" frameX="0" frameY="-3" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0002" x="2240" y="621" width="514" height="594" frameX="-12" frameY="-1" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0003" x="2240" y="621" width="514" height="594" frameX="-12" frameY="-1" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0004" x="2756" y="621" width="510" height="595" frameX="-16" frameY="0" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0005" x="2756" y="621" width="510" height="595" frameX="-16" frameY="0" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0006" x="3268" y="621" width="508" height="595" frameX="-18" frameY="0" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0007" x="3268" y="621" width="508" height="595" frameX="-18" frameY="0" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0008" x="3268" y="621" width="508" height="595" frameX="-18" frameY="0" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0009" x="3268" y="621" width="508" height="595" frameX="-18" frameY="0" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0010" x="3268" y="621" width="508" height="595" frameX="-18" frameY="0" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0011" x="3268" y="621" width="508" height="595" frameX="-18" frameY="0" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0012" x="3268" y="621" width="508" height="595" frameX="-18" frameY="0" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0013" x="3268" y="621" width="508" height="595" frameX="-18" frameY="0" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave left0014" x="3268" y="621" width="508" height="595" frameX="-18" frameY="0" frameWidth="526" frameHeight="595"/>
+	<SubTexture name="brave right0000" x="0" y="1218" width="462" height="575" pivotX="226.1" pivotY="278.65" frameX="-3" frameY="0" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0001" x="0" y="1218" width="462" height="575" frameX="-3" frameY="0" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0002" x="464" y="1218" width="463" height="574" frameX="-1" frameY="-1" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0003" x="464" y="1218" width="463" height="574" frameX="-1" frameY="-1" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0004" x="929" y="1218" width="465" height="573" frameX="0" frameY="-2" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0005" x="929" y="1218" width="465" height="573" frameX="0" frameY="-2" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0006" x="1396" y="1218" width="465" height="572" frameX="-3" frameY="-3" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0007" x="1396" y="1218" width="465" height="572" frameX="-3" frameY="-3" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0008" x="1863" y="1218" width="462" height="573" frameX="-6" frameY="-2" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0009" x="1863" y="1218" width="462" height="573" frameX="-6" frameY="-2" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0010" x="1863" y="1218" width="462" height="573" frameX="-6" frameY="-2" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0011" x="1863" y="1218" width="462" height="573" frameX="-6" frameY="-2" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0012" x="1863" y="1218" width="462" height="573" frameX="-6" frameY="-2" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0013" x="1863" y="1218" width="462" height="573" frameX="-6" frameY="-2" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave right0014" x="1863" y="1218" width="462" height="573" frameX="-6" frameY="-2" frameWidth="468" frameHeight="575"/>
+	<SubTexture name="brave taunt0000" x="2327" y="1218" width="360" height="497" pivotX="171.9" pivotY="240.65"/>
+	<SubTexture name="brave taunt0001" x="2327" y="1218" width="360" height="497"/>
+	<SubTexture name="brave taunt0002" x="2689" y="1218" width="360" height="497"/>
+	<SubTexture name="brave taunt0003" x="3051" y="1218" width="357" height="494" frameX="0" frameY="-3" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt0004" x="3410" y="1218" width="357" height="494" frameX="0" frameY="-3" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt0005" x="0" y="1795" width="357" height="489" frameX="-1" frameY="-8" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt0006" x="359" y="1795" width="357" height="489" frameX="-1" frameY="-8" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt0007" x="718" y="1795" width="355" height="488" frameX="-3" frameY="-9" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt0008" x="718" y="1795" width="355" height="488" frameX="-3" frameY="-9" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt0009" x="1075" y="1795" width="356" height="488" frameX="-3" frameY="-9" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt0010" x="1075" y="1795" width="356" height="488" frameX="-3" frameY="-9" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt0011" x="1075" y="1795" width="356" height="488" frameX="-3" frameY="-9" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt0012" x="1075" y="1795" width="356" height="488" frameX="-3" frameY="-9" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt0013" x="1075" y="1795" width="356" height="488" frameX="-3" frameY="-9" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt0014" x="1075" y="1795" width="356" height="488" frameX="-3" frameY="-9" frameWidth="360" frameHeight="497"/>
+	<SubTexture name="brave taunt 20000" x="1433" y="1795" width="370" height="469" pivotX="169.4" pivotY="232.05" frameX="-2" frameY="-8" frameWidth="372" frameHeight="477"/>
+	<SubTexture name="brave taunt 20001" x="1433" y="1795" width="370" height="469" frameX="-2" frameY="-8" frameWidth="372" frameHeight="477"/>
+	<SubTexture name="brave taunt 20002" x="1805" y="1795" width="372" height="473" frameX="0" frameY="-4" frameWidth="372" frameHeight="477"/>
+	<SubTexture name="brave taunt 20003" x="1805" y="1795" width="372" height="473" frameX="0" frameY="-4" frameWidth="372" frameHeight="477"/>
+	<SubTexture name="brave taunt 20004" x="2179" y="1795" width="372" height="476" frameX="0" frameY="-1" frameWidth="372" frameHeight="477"/>
+	<SubTexture name="brave taunt 20005" x="2179" y="1795" width="372" height="476" frameX="0" frameY="-1" frameWidth="372" frameHeight="477"/>
+	<SubTexture name="brave taunt 20006" x="2553" y="1795" width="372" height="477"/>
+	<SubTexture name="brave taunt 20007" x="2553" y="1795" width="372" height="477"/>
+	<SubTexture name="brave taunt 20008" x="2553" y="1795" width="372" height="477"/>
+	<SubTexture name="brave taunt 20009" x="2553" y="1795" width="372" height="477"/>
+	<SubTexture name="brave taunt 20010" x="2553" y="1795" width="372" height="477"/>
+	<SubTexture name="brave taunt 20011" x="2553" y="1795" width="372" height="477"/>
+	<SubTexture name="brave taunt 20012" x="2553" y="1795" width="372" height="477"/>
+	<SubTexture name="brave taunt 20013" x="2553" y="1795" width="372" height="477"/>
+	<SubTexture name="brave taunt 20014" x="2553" y="1795" width="372" height="477"/>
+	<SubTexture name="brave up0000" x="2927" y="1795" width="433" height="698" pivotX="219" pivotY="350.1" frameX="-1" frameY="0" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0001" x="2927" y="1795" width="433" height="698" frameX="-1" frameY="0" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0002" x="3362" y="1795" width="441" height="692" frameX="0" frameY="-6" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0003" x="3362" y="1795" width="441" height="692" frameX="0" frameY="-6" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0004" x="0" y="2495" width="442" height="686" frameX="-2" frameY="-12" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0005" x="0" y="2495" width="442" height="686" frameX="-2" frameY="-12" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0006" x="444" y="2495" width="444" height="687" frameX="-2" frameY="-11" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0007" x="890" y="2495" width="444" height="687" frameX="-2" frameY="-11" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0008" x="890" y="2495" width="444" height="687" frameX="-2" frameY="-11" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0009" x="890" y="2495" width="444" height="687" frameX="-2" frameY="-11" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0010" x="890" y="2495" width="444" height="687" frameX="-2" frameY="-11" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0011" x="890" y="2495" width="444" height="687" frameX="-2" frameY="-11" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0012" x="890" y="2495" width="444" height="687" frameX="-2" frameY="-11" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0013" x="890" y="2495" width="444" height="687" frameX="-2" frameY="-11" frameWidth="446" frameHeight="698"/>
+	<SubTexture name="brave up0014" x="890" y="2495" width="444" height="687" frameX="-2" frameY="-11" frameWidth="446" frameHeight="698"/>
+</TextureAtlas>
