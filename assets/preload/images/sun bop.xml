@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sun bop.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sun bop0000" x="0" y="0" width="1572" height="1390" pivotX="784.2" pivotY="693.25"/>
+	<SubTexture name="sun bop0001" x="0" y="0" width="1572" height="1390"/>
+	<SubTexture name="sun bop0002" x="1574" y="0" width="1500" height="1318" frameX="-36" frameY="-36" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0003" x="1574" y="0" width="1500" height="1318" frameX="-36" frameY="-36" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0004" x="0" y="1392" width="1428" height="1246" frameX="-72" frameY="-72" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0005" x="0" y="1392" width="1428" height="1246" frameX="-72" frameY="-72" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0006" x="1430" y="1392" width="1396" height="1214" frameX="-88" frameY="-88" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0007" x="1430" y="1392" width="1396" height="1214" frameX="-88" frameY="-88" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0008" x="1430" y="1392" width="1396" height="1214" frameX="-88" frameY="-88" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0009" x="1430" y="1392" width="1396" height="1214" frameX="-88" frameY="-88" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0010" x="1430" y="1392" width="1396" height="1214" frameX="-88" frameY="-88" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0011" x="1430" y="1392" width="1396" height="1214" frameX="-88" frameY="-88" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0012" x="1430" y="1392" width="1396" height="1214" frameX="-88" frameY="-88" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0013" x="1430" y="1392" width="1396" height="1214" frameX="-88" frameY="-88" frameWidth="1572" frameHeight="1390"/>
+	<SubTexture name="sun bop0014" x="1430" y="1392" width="1396" height="1214" frameX="-88" frameY="-88" frameWidth="1572" frameHeight="1390"/>
+</TextureAtlas>

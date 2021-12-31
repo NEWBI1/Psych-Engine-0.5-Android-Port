@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CRYSTAL_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="157" height="154" pivotX="0.05" pivotY="0"/>
+	<SubTexture name="blue hold end0000" x="159" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="blue hold piece0000" x="211" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="green0000" x="263" y="0" width="157" height="154" pivotX="0.05" pivotY="0"/>
+	<SubTexture name="green hold end0000" x="422" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="green hold piece0000" x="0" y="156" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="pruple end hold0000" x="52" y="156" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="purple0000" x="104" y="156" width="154" height="157" pivotX="0.2" pivotY="0"/>
+	<SubTexture name="purple hold piece0000" x="260" y="156" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="red0000" x="312" y="156" width="154" height="157" pivotX="0" pivotY="0"/>
+	<SubTexture name="red hold end0000" x="0" y="315" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="red hold piece0000" x="52" y="315" width="50" height="44" pivotX="0" pivotY="0"/>
+</TextureAtlas>
