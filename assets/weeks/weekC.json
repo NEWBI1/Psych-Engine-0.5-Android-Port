@@ -1,0 +1,48 @@
+{
+	"storyName": "wait, more?!!1!!",
+	"hideFreeplay": false,
+	"weekBackground": "sour",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"morecoki",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"moon",
+			"bunny",
+			[
+				255,
+				215,
+				255
+			]
+		],
+		[
+			"ink",
+			"squid",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"supreme",
+			"twizzly",
+			[
+				106,
+				0,
+				213
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

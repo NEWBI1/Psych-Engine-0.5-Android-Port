@@ -1,0 +1,48 @@
+{
+	"storyName": "cookie kingdom",
+	"hideFreeplay": false,
+	"weekBackground": "sweet",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"brave",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"brave",
+			"brave",
+			[
+				235,
+				153,
+				153
+			]
+		],
+		[
+			"pastry",
+			"brave",
+			[
+				235,
+				153,
+				153
+			]
+		],
+		[
+			"sugar rush",
+			"brave",
+			[
+				235,
+				153,
+				153
+			]
+		]
+	],
+	"weekName": "Sweet Week"
+}
