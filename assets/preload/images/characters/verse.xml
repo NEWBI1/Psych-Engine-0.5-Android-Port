@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="verse.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="verse down0000" x="0" y="0" width="446" height="492" pivotX="229.75" pivotY="261" frameX="-11" frameY="-26" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0001" x="0" y="0" width="446" height="492" frameX="-11" frameY="-26" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0002" x="448" y="0" width="456" height="499" frameX="-7" frameY="-19" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0003" x="448" y="0" width="456" height="499" frameX="-7" frameY="-19" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0004" x="906" y="0" width="461" height="506" frameX="0" frameY="-12" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0005" x="906" y="0" width="461" height="506" frameX="0" frameY="-12" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0006" x="1369" y="0" width="460" height="512" frameX="-1" frameY="-6" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0007" x="1369" y="0" width="460" height="512" frameX="-1" frameY="-6" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0008" x="1831" y="0" width="459" height="518" frameX="-2" frameY="0" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0009" x="1831" y="0" width="459" height="518" frameX="-2" frameY="0" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0010" x="1831" y="0" width="459" height="518" frameX="-2" frameY="0" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0011" x="1831" y="0" width="459" height="518" frameX="-2" frameY="0" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0012" x="1831" y="0" width="459" height="518" frameX="-2" frameY="0" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0013" x="1831" y="0" width="459" height="518" frameX="-2" frameY="0" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse down0014" x="1831" y="0" width="459" height="518" frameX="-2" frameY="0" frameWidth="463" frameHeight="518"/>
+	<SubTexture name="verse hey0000" x="2292" y="0" width="403" height="567" pivotX="219.95" pivotY="281.95" frameX="0" frameY="-1" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0001" x="2292" y="0" width="403" height="567" frameX="0" frameY="-1" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0002" x="2697" y="0" width="392" height="568" frameX="-10" frameY="0" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0003" x="2697" y="0" width="392" height="568" frameX="-10" frameY="0" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0004" x="3091" y="0" width="398" height="567" frameX="-5" frameY="-1" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0005" x="3091" y="0" width="398" height="567" frameX="-5" frameY="-1" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0006" x="3491" y="0" width="395" height="568" frameX="-7" frameY="0" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0007" x="3491" y="0" width="395" height="568" frameX="-7" frameY="0" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0008" x="3491" y="0" width="395" height="568" frameX="-7" frameY="0" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0009" x="3491" y="0" width="395" height="568" frameX="-7" frameY="0" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0010" x="3491" y="0" width="395" height="568" frameX="-7" frameY="0" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0011" x="3491" y="0" width="395" height="568" frameX="-7" frameY="0" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0012" x="3491" y="0" width="395" height="568" frameX="-7" frameY="0" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0013" x="3491" y="0" width="395" height="568" frameX="-7" frameY="0" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse hey0014" x="3491" y="0" width="395" height="568" frameX="-7" frameY="0" frameWidth="403" frameHeight="568"/>
+	<SubTexture name="verse idle0000" x="0" y="570" width="431" height="568" pivotX="215.45" pivotY="285.3" frameX="0" frameY="-4" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0001" x="0" y="570" width="431" height="568" frameX="0" frameY="-4" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0002" x="433" y="570" width="421" height="570" frameX="-3" frameY="-2" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0003" x="433" y="570" width="421" height="570" frameX="-3" frameY="-2" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0004" x="856" y="570" width="418" height="568" frameX="-6" frameY="-4" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0005" x="856" y="570" width="418" height="568" frameX="-6" frameY="-4" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0006" x="1276" y="570" width="419" height="570" frameX="-6" frameY="-2" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0007" x="1276" y="570" width="419" height="570" frameX="-6" frameY="-2" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0008" x="1697" y="570" width="417" height="572" frameX="-7" frameY="0" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0009" x="2116" y="570" width="420" height="572" frameX="-7" frameY="0" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0010" x="2116" y="570" width="420" height="572" frameX="-7" frameY="0" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0011" x="2116" y="570" width="420" height="572" frameX="-7" frameY="0" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0012" x="2116" y="570" width="420" height="572" frameX="-7" frameY="0" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse idle0013" x="2116" y="570" width="420" height="572" frameX="-7" frameY="0" frameWidth="431" frameHeight="572"/>
+	<SubTexture name="verse left0000" x="2538" y="570" width="524" height="513" pivotX="267.9" pivotY="265.75" frameX="0" frameY="-13" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0001" x="2538" y="570" width="524" height="513" frameX="0" frameY="-13" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0002" x="3064" y="570" width="512" height="520" frameX="-15" frameY="-6" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0003" x="3064" y="570" width="512" height="520" frameX="-15" frameY="-6" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0004" x="3578" y="570" width="505" height="525" frameX="-23" frameY="-1" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0005" x="3578" y="570" width="505" height="525" frameX="-23" frameY="-1" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0006" x="0" y="1144" width="500" height="526" frameX="-29" frameY="0" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0007" x="0" y="1144" width="500" height="526" frameX="-29" frameY="0" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0008" x="502" y="1144" width="497" height="526" frameX="-32" frameY="0" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0009" x="502" y="1144" width="497" height="526" frameX="-32" frameY="0" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0010" x="502" y="1144" width="497" height="526" frameX="-32" frameY="0" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0011" x="502" y="1144" width="497" height="526" frameX="-32" frameY="0" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0012" x="502" y="1144" width="497" height="526" frameX="-32" frameY="0" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse left0013" x="502" y="1144" width="497" height="526" frameX="-32" frameY="0" frameWidth="529" frameHeight="526"/>
+	<SubTexture name="verse right0000" x="1001" y="1144" width="448" height="549" pivotX="219.05" pivotY="273.4" frameX="-2" frameY="0" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0001" x="1001" y="1144" width="448" height="549" frameX="-2" frameY="0" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0002" x="1451" y="1144" width="441" height="549" frameX="-1" frameY="0" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0003" x="1451" y="1144" width="441" height="549" frameX="-1" frameY="0" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0004" x="1894" y="1144" width="434" height="546" frameX="0" frameY="-3" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0005" x="1894" y="1144" width="434" height="546" frameX="0" frameY="-3" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0006" x="2330" y="1144" width="434" height="546" frameX="0" frameY="-3" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0007" x="2330" y="1144" width="434" height="546" frameX="0" frameY="-3" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0008" x="2330" y="1144" width="434" height="546" frameX="0" frameY="-3" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0009" x="2330" y="1144" width="434" height="546" frameX="0" frameY="-3" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0010" x="2330" y="1144" width="434" height="546" frameX="0" frameY="-3" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0011" x="2330" y="1144" width="434" height="546" frameX="0" frameY="-3" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0012" x="2330" y="1144" width="434" height="546" frameX="0" frameY="-3" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0013" x="2330" y="1144" width="434" height="546" frameX="0" frameY="-3" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse right0014" x="2330" y="1144" width="434" height="546" frameX="0" frameY="-3" frameWidth="450" frameHeight="549"/>
+	<SubTexture name="verse up0000" x="2766" y="1144" width="419" height="579" pivotX="255.95" pivotY="292" frameX="-32" frameY="0" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0001" x="2766" y="1144" width="419" height="579" frameX="-32" frameY="0" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0002" x="3187" y="1144" width="430" height="578" frameX="-24" frameY="-1" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0003" x="3187" y="1144" width="430" height="578" frameX="-24" frameY="-1" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0004" x="3619" y="1144" width="447" height="570" frameX="-11" frameY="-9" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0005" x="3619" y="1144" width="447" height="570" frameX="-11" frameY="-9" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0006" x="0" y="1725" width="454" height="566" frameX="-4" frameY="-13" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0007" x="0" y="1725" width="454" height="566" frameX="-4" frameY="-13" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0008" x="456" y="1725" width="457" height="565" frameX="0" frameY="-14" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0009" x="456" y="1725" width="457" height="565" frameX="0" frameY="-14" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0010" x="456" y="1725" width="457" height="565" frameX="0" frameY="-14" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0011" x="456" y="1725" width="457" height="565" frameX="0" frameY="-14" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0012" x="456" y="1725" width="457" height="565" frameX="0" frameY="-14" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0013" x="456" y="1725" width="457" height="565" frameX="0" frameY="-14" frameWidth="458" frameHeight="579"/>
+	<SubTexture name="verse up0014" x="456" y="1725" width="457" height="565" frameX="0" frameY="-14" frameWidth="458" frameHeight="579"/>
+</TextureAtlas>

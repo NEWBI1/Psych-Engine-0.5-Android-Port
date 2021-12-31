@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="twizzly.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="twizzly down0000" x="0" y="0" width="980" height="498" pivotX="488.4" pivotY="282.05" frameX="0" frameY="-17" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0001" x="0" y="0" width="980" height="498" frameX="0" frameY="-17" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0002" x="982" y="0" width="948" height="510" frameX="-15" frameY="-5" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0003" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0004" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0005" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0006" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0007" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0008" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0009" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0010" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0011" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0012" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0013" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly down0014" x="1932" y="0" width="931" height="515" frameX="-17" frameY="0" frameWidth="980" frameHeight="515"/>
+	<SubTexture name="twizzly idle0000" x="2865" y="0" width="726" height="585" pivotX="397.85" pivotY="289.4"/>
+	<SubTexture name="twizzly idle0001" x="2865" y="0" width="726" height="585"/>
+	<SubTexture name="twizzly idle0002" x="0" y="587" width="700" height="583" frameX="-21" frameY="-2" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0003" x="0" y="587" width="700" height="583" frameX="-21" frameY="-2" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0004" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0005" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0006" x="1378" y="587" width="660" height="575" frameX="-54" frameY="-10" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0007" x="1378" y="587" width="660" height="575" frameX="-54" frameY="-10" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0008" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0009" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0010" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0011" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0012" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0013" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0014" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0015" x="2865" y="0" width="726" height="585"/>
+	<SubTexture name="twizzly idle0016" x="2865" y="0" width="726" height="585"/>
+	<SubTexture name="twizzly idle0017" x="0" y="587" width="700" height="583" frameX="-21" frameY="-2" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0018" x="0" y="587" width="700" height="583" frameX="-21" frameY="-2" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0019" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0020" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0021" x="1378" y="587" width="660" height="575" frameX="-54" frameY="-10" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0022" x="1378" y="587" width="660" height="575" frameX="-54" frameY="-10" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0023" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0024" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0025" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0026" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0027" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0028" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly idle0029" x="702" y="587" width="674" height="582" frameX="-42" frameY="-3" frameWidth="726" frameHeight="585"/>
+	<SubTexture name="twizzly left0000" x="2040" y="587" width="843" height="621" pivotX="429.15" pivotY="309.3" frameX="0" frameY="0" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0001" x="2040" y="587" width="843" height="621" frameX="0" frameY="0" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0002" x="2885" y="587" width="838" height="614" frameX="-9" frameY="-2" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0003" x="2885" y="587" width="838" height="614" frameX="-9" frameY="-2" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0004" x="0" y="1210" width="828" height="613" frameX="-20" frameY="-3" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0005" x="0" y="1210" width="828" height="613" frameX="-20" frameY="-3" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0006" x="0" y="1210" width="828" height="613" frameX="-20" frameY="-3" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0007" x="0" y="1210" width="828" height="613" frameX="-20" frameY="-3" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0008" x="0" y="1210" width="828" height="613" frameX="-20" frameY="-3" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0009" x="0" y="1210" width="828" height="613" frameX="-20" frameY="-3" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0010" x="0" y="1210" width="828" height="613" frameX="-20" frameY="-3" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0011" x="0" y="1210" width="828" height="613" frameX="-20" frameY="-3" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0012" x="0" y="1210" width="828" height="613" frameX="-20" frameY="-3" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0013" x="0" y="1210" width="828" height="613" frameX="-20" frameY="-3" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly left0014" x="0" y="1210" width="828" height="613" frameX="-20" frameY="-3" frameWidth="848" frameHeight="621"/>
+	<SubTexture name="twizzly right0000" x="830" y="1210" width="679" height="548" pivotX="348.65" pivotY="282.9" frameX="-39" frameY="0" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0001" x="830" y="1210" width="679" height="548" frameX="-39" frameY="0" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0002" x="1511" y="1210" width="662" height="532" frameX="-30" frameY="-10" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0003" x="1511" y="1210" width="662" height="532" frameX="-30" frameY="-10" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0004" x="2175" y="1210" width="678" height="518" frameX="0" frameY="-14" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0005" x="2175" y="1210" width="678" height="518" frameX="0" frameY="-14" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0006" x="2175" y="1210" width="678" height="518" frameX="0" frameY="-14" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0007" x="2175" y="1210" width="678" height="518" frameX="0" frameY="-14" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0008" x="2175" y="1210" width="678" height="518" frameX="0" frameY="-14" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0009" x="2175" y="1210" width="678" height="518" frameX="0" frameY="-14" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0010" x="2175" y="1210" width="678" height="518" frameX="0" frameY="-14" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0011" x="2175" y="1210" width="678" height="518" frameX="0" frameY="-14" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0012" x="2175" y="1210" width="678" height="518" frameX="0" frameY="-14" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0013" x="2175" y="1210" width="678" height="518" frameX="0" frameY="-14" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly right0014" x="2175" y="1210" width="678" height="518" frameX="0" frameY="-14" frameWidth="718" frameHeight="548"/>
+	<SubTexture name="twizzly taunt0000" x="2855" y="1210" width="841" height="705" pivotX="336.9" pivotY="370.5" frameX="-24" frameY="0" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0001" x="2855" y="1210" width="841" height="705" frameX="-24" frameY="0" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0002" x="0" y="1917" width="894" height="660" frameX="0" frameY="-45" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0003" x="0" y="1917" width="894" height="660" frameX="0" frameY="-45" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0004" x="896" y="1917" width="864" height="679" frameX="-9" frameY="-26" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0005" x="896" y="1917" width="864" height="679" frameX="-9" frameY="-26" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0006" x="1762" y="1917" width="866" height="668" frameX="-17" frameY="-37" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0007" x="1762" y="1917" width="866" height="668" frameX="-17" frameY="-37" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0008" x="1762" y="1917" width="866" height="668" frameX="-17" frameY="-37" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0009" x="1762" y="1917" width="866" height="668" frameX="-17" frameY="-37" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0010" x="1762" y="1917" width="866" height="668" frameX="-17" frameY="-37" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0011" x="1762" y="1917" width="866" height="668" frameX="-17" frameY="-37" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0012" x="1762" y="1917" width="866" height="668" frameX="-17" frameY="-37" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0013" x="1762" y="1917" width="866" height="668" frameX="-17" frameY="-37" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly taunt0014" x="1762" y="1917" width="866" height="668" frameX="-17" frameY="-37" frameWidth="894" frameHeight="705"/>
+	<SubTexture name="twizzly up0000" x="2630" y="1917" width="670" height="655" pivotX="336.9" pivotY="321.7" frameX="-24" frameY="-1" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0001" x="2630" y="1917" width="670" height="655" frameX="-24" frameY="-1" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0002" x="3302" y="1917" width="714" height="656"/>
+	<SubTexture name="twizzly up0003" x="3302" y="1917" width="714" height="656"/>
+	<SubTexture name="twizzly up0004" x="0" y="2598" width="699" height="647" frameX="-9" frameY="-9" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0005" x="0" y="2598" width="699" height="647" frameX="-9" frameY="-9" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0006" x="701" y="2598" width="686" height="644" frameX="-17" frameY="-12" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0007" x="701" y="2598" width="686" height="644" frameX="-17" frameY="-12" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0008" x="701" y="2598" width="686" height="644" frameX="-17" frameY="-12" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0009" x="701" y="2598" width="686" height="644" frameX="-17" frameY="-12" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0010" x="701" y="2598" width="686" height="644" frameX="-17" frameY="-12" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0011" x="701" y="2598" width="686" height="644" frameX="-17" frameY="-12" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0012" x="701" y="2598" width="686" height="644" frameX="-17" frameY="-12" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0013" x="701" y="2598" width="686" height="644" frameX="-17" frameY="-12" frameWidth="714" frameHeight="656"/>
+	<SubTexture name="twizzly up0014" x="701" y="2598" width="686" height="644" frameX="-17" frameY="-12" frameWidth="714" frameHeight="656"/>
+</TextureAtlas>
