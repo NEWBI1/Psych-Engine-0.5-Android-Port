@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chispas.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chispas0000" x="0" y="0" width="1108" height="377" pivotX="821.35" pivotY="450.95" frameX="-691" frameY="-143" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0001" x="1110" y="0" width="1009" height="336" frameX="-729" frameY="-160" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0002" x="2121" y="0" width="215" height="103" frameX="-737" frameY="-403" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0003" x="2338" y="0" width="243" height="106" frameX="-729" frameY="-403" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0004" x="2583" y="0" width="923" height="118" frameX="0" frameY="-373" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0005" x="3508" y="0" width="233" height="149" frameX="-2" frameY="-336" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0006" x="3743" y="0" width="212" height="141" frameX="-25" frameY="-340" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0007" x="0" y="379" width="1534" height="160" frameX="-38" frameY="-310" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0008" x="1536" y="379" width="1546" height="185" frameX="-68" frameY="-273" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0009" x="3084" y="379" width="341" height="271" frameX="-1409" frameY="-160" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0010" x="3427" y="379" width="368" height="298" frameX="-1422" frameY="-124" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0011" x="0" y="679" width="341" height="284" frameX="-1450" frameY="-120" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0012" x="343" y="679" width="197" height="141" frameX="-1603" frameY="-143" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0013" x="542" y="679" width="110" height="102" frameX="-1629" frameY="-160" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0014" x="654" y="679" width="244" height="198" frameX="-2327" frameY="0" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0015" x="900" y="679" width="176" height="149" frameX="-2358" frameY="-25" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0016" x="1078" y="679" width="196" height="160" frameX="-2365" frameY="-28" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0017" x="1276" y="679" width="225" height="170" frameX="-2359" frameY="-22" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0018" x="1503" y="679" width="132" height="129" frameX="-2400" frameY="-46" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0019" x="1637" y="679" width="264" height="136" frameX="-691" frameY="-384" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0020" x="1903" y="679" width="195" height="88" frameX="-729" frameY="-408" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0021" x="2121" y="0" width="215" height="103" frameX="-737" frameY="-403" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0022" x="2100" y="679" width="843" height="199" frameX="-729" frameY="-310" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0023" x="0" y="965" width="2141" height="317" frameX="-776" frameY="-174" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0024" x="2143" y="965" width="1552" height="280" frameX="-1409" frameY="-151" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0025" x="0" y="1284" width="1542" height="256" frameX="-1422" frameY="-166" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0026" x="1544" y="1284" width="1523" height="227" frameX="-1450" frameY="-177" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0027" x="3069" y="1284" width="117" height="82" frameX="-2797" frameY="-187" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0028" x="3188" y="1284" width="266" height="140" frameX="-1021" frameY="-271" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0029" x="3456" y="1284" width="198" height="81" frameX="-1060" frameY="-298" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0030" x="3656" y="1284" width="217" height="111" frameX="-1069" frameY="-285" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0031" x="0" y="1542" width="244" height="114" frameX="-1060" frameY="-284" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0032" x="246" y="1542" width="643" height="214" frameX="-1107" frameY="-160" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0033" x="891" y="1542" width="220" height="183" frameX="-1570" frameY="-124" frameWidth="2973" frameHeight="520"/>
+	<SubTexture name="chispas0034" x="1113" y="1542" width="201" height="174" frameX="-1590" frameY="-120" frameWidth="2973" frameHeight="520"/>
+</TextureAtlas>
