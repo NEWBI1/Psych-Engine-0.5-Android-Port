@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cookiesforink.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backgroundforink0000" x="0" y="0" width="2539" height="679" pivotX="1259.05" pivotY="348.95" frameX="0" frameY="-15" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0001" x="0" y="0" width="2539" height="679" frameX="0" frameY="-15" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0002" x="0" y="681" width="2526" height="686" frameX="-8" frameY="-9" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0003" x="0" y="681" width="2526" height="686" frameX="-8" frameY="-9" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0004" x="0" y="1369" width="2514" height="690" frameX="-13" frameY="-5" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0005" x="0" y="1369" width="2514" height="690" frameX="-13" frameY="-5" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0006" x="0" y="2061" width="2499" height="695" frameX="-19" frameY="0" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0007" x="0" y="2061" width="2499" height="695" frameX="-19" frameY="0" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0008" x="0" y="2061" width="2499" height="695" frameX="-19" frameY="0" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0009" x="0" y="2061" width="2499" height="695" frameX="-19" frameY="0" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0010" x="0" y="2061" width="2499" height="695" frameX="-19" frameY="0" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0011" x="0" y="2061" width="2499" height="695" frameX="-19" frameY="0" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0012" x="0" y="2061" width="2499" height="695" frameX="-19" frameY="0" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0013" x="0" y="2061" width="2499" height="695" frameX="-19" frameY="0" frameWidth="2539" frameHeight="695"/>
+	<SubTexture name="backgroundforink0014" x="0" y="2061" width="2499" height="695" frameX="-19" frameY="0" frameWidth="2539" frameHeight="695"/>
+</TextureAtlas>
