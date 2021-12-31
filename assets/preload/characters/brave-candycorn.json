@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				134,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "brave idle"
+		},
+		{
+			"offsets": [
+				80,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "brave down"
+		},
+		{
+			"offsets": [
+				19,
+				367
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "brave up"
+		},
+		{
+			"offsets": [
+				22,
+				243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "brave right"
+		},
+		{
+			"offsets": [
+				185,
+				254
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "brave left"
+		},
+		{
+			"offsets": [
+				-3,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "brave taunt"
+		},
+		{
+			"offsets": [
+				210,
+				551
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "flip",
+			"indices": [],
+			"name": "brave flip"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"offsets": [
+				170,
+				270
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "lol",
+			"loop": true,
+			"name": "brave lol"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/brave-candycorn",
+	"position": [
+		20,
+		430
+	],
+	"healthicon": "brave",
+	"flip_x": false,
+	"healthbar_colors": [
+		229,
+		157,
+		76
+	],
+	"camera_position": [
+		-150,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

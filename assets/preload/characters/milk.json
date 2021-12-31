@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "milk idle"
+		},
+		{
+			"offsets": [
+				141,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "milk left"
+		},
+		{
+			"offsets": [
+				60,
+				-250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "milk down"
+		},
+		{
+			"offsets": [
+				65,
+				-81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "milk up"
+		},
+		{
+			"offsets": [
+				90,
+				-93
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "milk right"
+		},
+		{
+			"offsets": [
+				180,
+				-70
+			],
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "milk idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/milk",
+	"position": [
+		50,
+		60
+	],
+	"healthicon": "milk",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		215,
+		255
+	],
+	"camera_position": [
+		-160,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

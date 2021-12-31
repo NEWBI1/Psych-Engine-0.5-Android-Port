@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				106
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "twizzly left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "twizzly down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "twizzly up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				191,
+				233
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "twizzly taunt"
+		},
+		{
+			"offsets": [
+				-19,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "twizzly right"
+		},
+		{
+			"offsets": [
+				89,
+				80
+			],
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"fps": 16,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "twizzly idle"
+		},
+		{
+			"offsets": [
+				88,
+				80
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 16,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "twizzly idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/twizzly-thecity",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "twizzly",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		0,
+		255
+	],
+	"camera_position": [
+		-310,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

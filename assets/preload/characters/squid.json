@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				111
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "squid idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "squid down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				117
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "squid up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				108
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "squid right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				112
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "squid left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/squid",
+	"position": [
+		160,
+		460
+	],
+	"healthicon": "squid",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		40,
+		56
+	],
+	"camera_position": [
+		-200,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
